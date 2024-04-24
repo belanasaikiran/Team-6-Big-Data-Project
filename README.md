@@ -7,11 +7,20 @@ The completion of this project has the potential to, when used with real world d
 
 ## Dependencies
 
-<< UPDATE AS NEEDED >>
+```bash
+TensorFlow
+Keras
+matplotlib
+numpy
+pandas
+```
+
 
 ## Dataset
 
-The dataset used for this project was the Stanford Cars Dataset, which contains 16,185 images of 196 types of cars. 
+The dataset used for this project was the Stanford Cars Dataset, which contains 16,185 images of 196 types of cars.
+
+![Stanford Car DataSet](./images/dataset.png){width=400px}
 
 The original dataset was originally located [here](https://ai.stanford.edu/~jkrause/cars/car_dataset.html), but the link has been broken for a few years prior to the start of this project. While many sites where the dataset was secondarily uploaded contain mistakes or an incomplete suite of the necessary resources, we were able to piece together the original and correct information with some research.
 
@@ -23,27 +32,24 @@ The full, original dataset can be found in a few other locations online:
 
 The images provided by the dataset are small JPGs with slight deviations in size. Most are already relatively closely cropped to capture less extraneous information.
 
-<< INSERT IMAGE EXAMPLES HERE >>
+
 
 ### The annotations
 
 The metadata for the images is divided into two general categories of matricies: a smaller one to hold the references for car class name (a value between 1 and 196) and its associated make and model, and a larger one to connect each image's file name with its bounding box coordinates and class number. 
 
-<< INSERT PREVIEW/DF HEAD IMAGE HERE >>
 
-## Usage
 
-### Preparing the dataset
+## List of Tasks
 
-### Choosing a model
+- [x] Preparing the dataset
+- [x] Choosing a model
+- [x] Training the model
+- [x] Evaluating the model
+- [x] Tuning parameters
+- [x] Testing the model
 
-### Training the model
+### Final Results
 
-### Evaluating the model
-
-### Tuning parameters
-
-### Testing the model
-
-## Demo
+![Results](./images/Results.png)
 
