@@ -50,5 +50,5 @@ The metadata for the images is divided into two general categories of matricies:
 
 ### Final Results
 
-![Results](./images/Results.png)
+![Results](./images/results.png)
 
