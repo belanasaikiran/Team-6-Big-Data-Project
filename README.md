@@ -1,5 +1,4 @@
-
-# Car Model Prediction with ML Models
+# Car Make & Model Prediction with Xception 
 
 This project aims to build a program which can identify the make and model of a car from an image. 
 
@@ -40,7 +39,7 @@ The metadata for the images is divided into two general categories of matricies:
 
 
 
-## List of Tasks
+## List of Tasks performed
 
 - [x] Preparing the dataset
 - [x] Choosing a model
