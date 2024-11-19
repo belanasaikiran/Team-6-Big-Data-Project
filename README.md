@@ -19,7 +19,10 @@ pandas
 
 The dataset used for this project was the Stanford Cars Dataset, which contains 16,185 images of 196 types of cars.
 
+<img src="./images/dataset.png" style="width=400px" />
+<--
 ![Stanford Car DataSet](./images/dataset.png){width=400px}
+-->
 
 The original dataset was originally located [here](https://ai.stanford.edu/~jkrause/cars/car_dataset.html), but the link has been broken for a few years prior to the start of this project. While many sites where the dataset was secondarily uploaded contain mistakes or an incomplete suite of the necessary resources, we were able to piece together the original and correct information with some research.
 
